@@ -2,7 +2,7 @@
 
 This is a chess game created with python and tkinter, applying all the game mechanics. Additionally, an AI bot is implemented following the min-max algorithm with alpha-beta pruning.
 
-####Note: Possible Bugs due to translation from python2.7 to python3
+#### Note: Possible Bugs due to translation from python2.7 to python3
 
 ## Requirements:
 - #### python 3.x
